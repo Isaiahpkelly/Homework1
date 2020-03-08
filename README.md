@@ -1,2 +1,2 @@
 # Homework1
-Change the &lt;div>
+Changed the div tags to semantic html tags
